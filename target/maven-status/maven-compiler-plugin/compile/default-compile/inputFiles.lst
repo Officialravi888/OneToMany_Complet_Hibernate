@@ -1,5 +1,5 @@
+/home/hp/project/SpringCloud/HibernateOnetoManyMappingExample/src/main/java/org/example/entity/OneToManyMappingSpringApplication.java
 /home/hp/project/SpringCloud/HibernateOnetoManyMappingExample/src/main/java/org/example/entity/Comment.java
 /home/hp/project/SpringCloud/HibernateOnetoManyMappingExample/src/main/java/org/example/entity/Post.java
 /home/hp/project/SpringCloud/HibernateOnetoManyMappingExample/src/main/java/org/example/entity/repoestory/PostRepository.java
-/home/hp/project/SpringCloud/HibernateOnetoManyMappingExample/src/main/java/org/example/OneToManyMappingSpringApplication.java
 /home/hp/project/SpringCloud/HibernateOnetoManyMappingExample/src/main/java/org/example/entity/repoestory/CommentRepository.java

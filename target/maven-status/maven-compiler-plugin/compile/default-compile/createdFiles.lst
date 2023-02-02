@@ -1,5 +1,5 @@
 org/example/entity/repoestory/PostRepository.class
 org/example/entity/repoestory/CommentRepository.class
 org/example/entity/Comment.class
-org/example/OneToManyMappingSpringApplication.class
 org/example/entity/Post.class
+org/example/entity/OneToManyMappingSpringApplication.class
